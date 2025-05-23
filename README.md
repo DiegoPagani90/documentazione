@@ -1,2 +1,1 @@
-# documentazione
-Documentazione MCP, A2A e creazione e deploy tramite Github Copilot
+https://gamma.app/docs/Guida-a-VS-Code-con-Copilot-per-Landing-Page-8vm7krfqwbfajqd?mode=doc
